@@ -76,7 +76,7 @@ int main() {
 // logika program:
 // Program meminta pengguna memasukkan kode transaksi 8 digit.
 // lalu program mengambil 2 digit pertama (dengan formula substr) untuk menentukan jenis hari.
-// selanjutnya program mengambil 2 digit berikutnya untuk menentukan jenis planggan.
+// selanjutnya program mengambil 2 digit berikutnya untuk menentukan jenis pelanggan.
 // Program mengambil 4 digit terakhir untuk menentukan jumlah blanja yg jumlah belanjaan nya sudah dibagi dengan satuan seratus ribu,
 // lalu dikalikan 100000 agar ditampilkan di output dalam  bentuk rupiah.
 // Program menentukan poin berdasarkan kombinasi hari dan jenis pelanggan.
